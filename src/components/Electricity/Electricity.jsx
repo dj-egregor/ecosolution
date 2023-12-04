@@ -1,4 +1,3 @@
-import CountUp from 'react-countup';
 import Counter from '../Counter/Counter';
 
 import {
